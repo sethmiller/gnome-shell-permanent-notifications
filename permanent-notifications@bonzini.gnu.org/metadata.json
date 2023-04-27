@@ -13,10 +13,13 @@
     "3.6",
     "3.8",
     "3.10",
-    "40.0"
+    "40.0",
+    "41.1",
+    "43.0",
+		"44.0"
 
   ],
   "url": "https://github.com/bonzini/gnome-shell-permanent-notifications",
   "uuid": "permanent-notifications@bonzini.gnu.org",
-  "version": 5
+  "version": 12
 }
